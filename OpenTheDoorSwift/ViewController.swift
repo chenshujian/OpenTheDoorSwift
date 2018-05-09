@@ -7,11 +7,6 @@
 //
 
 import UIKit
-import SnapKit //aotulayout库
-import SwiftyJSON //json解析库
-import Alamofire //网络请求库
-import LTMorphingLabel //label库
-import SwiftyUserDefaults //UserDefaults库
 
 
 class ViewController: UIViewController {
