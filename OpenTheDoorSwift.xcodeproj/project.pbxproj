@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5DB097AA20B2619C00ACD249 /* RootViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DB097A920B2619C00ACD249 /* RootViewController.swift */; };
 		745E7E181D0437D40036CC9D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 745E7E171D0437D40036CC9D /* AppDelegate.swift */; };
 		745E7E1A1D0437D40036CC9D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 745E7E191D0437D40036CC9D /* ViewController.swift */; };
 		745E7E1D1D0437D40036CC9D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 745E7E1B1D0437D40036CC9D /* Main.storyboard */; };
@@ -28,6 +29,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		5DB097A920B2619C00ACD249 /* RootViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootViewController.swift; sourceTree = "<group>"; };
 		745E7E141D0437D40036CC9D /* OpenTheDoorSwift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OpenTheDoorSwift.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		745E7E171D0437D40036CC9D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		745E7E191D0437D40036CC9D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -70,6 +72,7 @@
 			children = (
 				745E7E171D0437D40036CC9D /* AppDelegate.swift */,
 				745E7E191D0437D40036CC9D /* ViewController.swift */,
+				5DB097A920B2619C00ACD249 /* RootViewController.swift */,
 				745E7E1B1D0437D40036CC9D /* Main.storyboard */,
 				745E7E1E1D0437D40036CC9D /* Assets.xcassets */,
 				745E7E201D0437D40036CC9D /* LaunchScreen.storyboard */,
@@ -159,6 +162,7 @@
 			files = (
 				745E7E1A1D0437D40036CC9D /* ViewController.swift in Sources */,
 				745E7E181D0437D40036CC9D /* AppDelegate.swift in Sources */,
+				5DB097AA20B2619C00ACD249 /* RootViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
