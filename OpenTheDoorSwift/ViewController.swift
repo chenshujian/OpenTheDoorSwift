@@ -17,7 +17,11 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         let name = "liu yang";
-        
+        let name = "liu yang";
+        let name = "liu yang";
+        let name = "liu yang";
+        let name = "liu yang";
+        let name = "liu yang";
         
     }
     
