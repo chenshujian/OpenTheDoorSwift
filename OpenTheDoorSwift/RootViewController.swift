@@ -14,6 +14,7 @@ class RootViewController: UIViewController {
         super.viewDidLoad()
         //这是一个新建的文件
         // Do any additional setup after loading the view.
+        //master文件提交
     }
 
     override func didReceiveMemoryWarning() {
